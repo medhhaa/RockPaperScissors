@@ -120,7 +120,7 @@ body{
 	.title{
 		text-align: center;
 	}
-	.moves{
+	#choices{
 		position:relative;
 	}
 	.score{
