@@ -120,6 +120,9 @@ body{
 	.title{
 		text-align: center;
 	}
+	.moves{
+		position:relative;
+	}
 	.score{
 		position: absolute;
 		top: 200px;
